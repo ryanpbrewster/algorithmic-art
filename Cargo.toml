@@ -1,0 +1,7 @@
+[package]
+name = "algorithmic-art"
+version = "0.1.0"
+authors = ["Ryan P. Brewster <RyanPBrewster@gmail.com>"]
+
+[dependencies]
+image = "0.18"
